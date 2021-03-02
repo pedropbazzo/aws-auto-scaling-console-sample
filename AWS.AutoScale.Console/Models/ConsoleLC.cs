@@ -55,4 +55,4 @@ namespace AWS.AutoScale.Console.Models
         }
 
     }
-}
+} 
